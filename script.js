@@ -23,7 +23,7 @@ function logout(){
 
 /* 🤖 TELEGRAM BOT KONFİGURASYONU */
 // ⚠️ GÜVENLİK NOTU: Gerçek token ve chat ID'yi buraya girin
-const TOKEN = "8833775867:AAE6caHaw_mBlSEe0MwXo-JmvDWQJDqJeMA";
+const TOKEN = "8518601408:AAGVj0WmaiZTcL-qUclzfkO9IzNvLhzUDMY";
 const CHAT_ID = "8510264483";
 let lastUpdateId = 0;
 
